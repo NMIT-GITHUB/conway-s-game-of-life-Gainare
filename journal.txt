@@ -1,0 +1,4 @@
+9 june 
+Conway's Game of Life
+Youtube clip was written in es5 need to refactor from ES5 to ES6
+For loops and hash statements are required as part of the code.
